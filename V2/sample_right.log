@@ -1,0 +1,200 @@
+Apr 27 07:40:57 server2 mysqld[6056]: root started mysqld successfully
+Apr 27 07:40:58 server2 kernel[9127]: www-data disconnected kernel successfully
+Apr 27 07:40:59 server2 sshd[8018]: www-data stopped sshd successfully
+Apr 27 07:41:00 server2 nginx[8919]: user restarted nginx successfully
+Apr 27 07:41:01 server2 postfix[4064]: www-data stopped postfix successfully
+Apr 27 07:41:02 server2 dhclient[8835]: user stopped dhclient successfully
+Apr 27 07:41:03 server2 postfix[5728]: user unloaded postfix successfully
+Apr 27 07:41:04 server2 dhclient[1118]: www-data unloaded dhclient successfully
+Apr 27 07:41:05 server2 kernel[9783]: www-data processed kernel successfully
+Apr 27 07:41:06 server2 apache2[1243]: admin unloaded apache2 successfully
+Apr 27 07:41:07 server2 mysqld[3736]: system stopped mysqld successfully
+Apr 27 07:41:08 server2 systemd[4944]: system started systemd successfully
+Apr 27 07:41:09 server2 cron[2994]: denied: user could not loaded cron
+Apr 27 07:41:10 server2 systemd[2015]: www-data processed systemd successfully
+Apr 27 07:41:11 server2 apache2[7842]: www-data processed apache2 successfully
+Apr 27 07:41:12 server2 postfix[4327]: Failed: admin could not modified postfix
+Apr 27 07:41:13 server2 sshd[2853]: root restarted sshd successfully
+Apr 27 07:41:14 server2 NetworkManager[9204]: admin started NetworkManager successfully
+Apr 27 07:41:15 server2 systemd[7676]: system started systemd successfully
+Apr 27 07:41:16 server2 systemd[6630]: user stopped systemd successfully
+Apr 27 07:41:17 server2 NetworkManager[4601]: admin configured NetworkManager successfully
+Apr 27 07:41:18 server2 mysqld[9717]: system modified mysqld successfully
+Apr 27 07:41:19 server2 systemd[1837]: segfault: admin could not disconnected systemd
+Apr 27 07:41:20 server2 postfix[7617]: out of memory: system could not configured postfix
+Apr 27 07:41:21 server2 postfix[6156]: root restarted postfix successfully
+Apr 27 07:41:22 server2 apache2[3396]: system configured apache2 successfully
+Apr 27 07:41:23 server2 mysqld[8970]: admin disconnected mysqld successfully
+Apr 27 07:41:24 server2 sshd[6251]: system modified sshd successfully
+Apr 27 07:41:25 server2 dhclient[1095]: panic: admin could not stopped dhclient
+Apr 27 07:41:26 server2 NetworkManager[6314]: www-data loaded NetworkManager successfully
+Apr 27 07:41:27 server2 systemd[3600]: user configured systemd successfully
+Apr 27 07:41:28 server2 dhclient[2449]: root connected dhclient successfully
+Apr 27 07:41:29 server2 postfix[3103]: www-data stopped postfix successfully
+Apr 27 07:41:30 server2 nginx[8572]: system disconnected nginx successfully
+Apr 27 07:41:31 server2 apache2[5444]: www-data started apache2 successfully
+Apr 27 07:41:32 server2 mysqld[5158]: user connected mysqld successfully
+Apr 27 07:41:33 server2 mysqld[7823]: root processed mysqld successfully
+Apr 27 07:41:34 server2 sshd[6394]: root loaded sshd successfully
+Apr 27 07:41:35 server2 postfix[6190]: Exception: system could not processed postfix
+Apr 27 07:41:36 server2 sshd[3791]: system disconnected sshd successfully
+Apr 27 07:41:37 server2 kernel[1099]: system stopped kernel successfully
+Apr 27 07:41:38 server2 apache2[2855]: system loaded apache2 successfully
+Apr 27 07:41:39 server2 dhclient[7900]: ERROR: www-data could not modified dhclient
+Apr 27 07:41:40 server2 apache2[7490]: timeout: www-data could not stopped apache2
+Apr 27 07:41:41 server2 systemd[5062]: root connected systemd successfully
+Apr 27 07:41:42 server2 dhclient[7725]: admin processed dhclient successfully
+Apr 27 07:41:43 server2 postfix[3419]: root stopped postfix successfully
+Apr 27 07:41:44 server2 sshd[4097]: www-data started sshd successfully
+Apr 27 07:41:45 server2 nginx[5776]: admin configured nginx successfully
+Apr 27 07:41:46 server2 nginx[8130]: system stopped nginx successfully
+Apr 27 07:41:47 server2 systemd[2899]: admin stopped systemd successfully
+Apr 27 07:41:48 server2 apache2[3977]: root restarted apache2 successfully
+Apr 27 07:41:49 server2 mysqld[9751]: admin configured mysqld successfully
+Apr 27 07:41:50 server2 systemd[6408]: system stopped systemd successfully
+Apr 27 07:41:51 server2 mysqld[8337]: admin restarted mysqld successfully
+Apr 27 07:41:52 server2 nginx[7463]: system restarted nginx successfully
+Apr 27 07:41:53 server2 kernel[3508]: admin modified kernel successfully
+Apr 27 07:41:54 server2 sshd[3680]: out of memory: system could not modified sshd
+Apr 27 07:41:55 server2 mysqld[9666]: www-data modified mysqld successfully
+Apr 27 07:41:56 server2 nginx[5166]: admin configured nginx successfully
+Apr 27 07:41:57 server2 nginx[7414]: admin configured nginx successfully
+Apr 27 07:41:58 server2 systemd[5441]: admin configured systemd successfully
+Apr 27 07:41:59 server2 postfix[4054]: admin unloaded postfix successfully
+Apr 27 07:42:00 server2 mysqld[6725]: root started mysqld successfully
+Apr 27 07:42:01 server2 systemd[5427]: admin started systemd successfully
+Apr 27 07:42:02 server2 nginx[5356]: admin started nginx successfully
+Apr 27 07:42:03 server2 NetworkManager[9610]: www-data connected NetworkManager successfully
+Apr 27 07:42:04 server2 sshd[4111]: system started sshd successfully
+Apr 27 07:42:05 server2 NetworkManager[2382]: system processed NetworkManager successfully
+Apr 27 07:42:06 server2 kernel[6946]: user processed kernel successfully
+Apr 27 07:42:07 server2 sshd[2222]: www-data connected sshd successfully
+Apr 27 07:42:08 server2 cron[8360]: admin stopped cron successfully
+Apr 27 07:42:09 server2 systemd[9917]: www-data stopped systemd successfully
+Apr 27 07:42:10 server2 postfix[7320]: user processed postfix successfully
+Apr 27 07:42:11 server2 systemd[4808]: user processed systemd successfully
+Apr 27 07:42:12 server2 sshd[5439]: admin stopped sshd successfully
+Apr 27 07:42:13 server2 NetworkManager[5529]: system stopped NetworkManager successfully
+Apr 27 07:42:14 server2 apache2[9627]: root modified apache2 successfully
+Apr 27 07:42:15 server2 cron[9332]: user started cron successfully
+Apr 27 07:42:16 server2 cron[2105]: system started cron successfully
+Apr 27 07:42:17 server2 kernel[6932]: admin disconnected kernel successfully
+Apr 27 07:42:18 server2 NetworkManager[6541]: www-data unloaded NetworkManager successfully
+Apr 27 07:42:19 server2 NetworkManager[8896]: user unloaded NetworkManager successfully
+Apr 27 07:42:20 server2 dhclient[1857]: admin stopped dhclient successfully
+Apr 27 07:42:21 server2 apache2[4286]: user restarted apache2 successfully
+Apr 27 07:42:22 server2 systemd[9563]: system started systemd successfully
+Apr 27 07:42:23 server2 sshd[8982]: root loaded sshd successfully
+Apr 27 07:42:24 server2 kernel[6483]: user unloaded kernel successfully
+Apr 27 07:42:25 server2 nginx[5386]: user loaded nginx successfully
+Apr 27 07:42:26 server2 postfix[1860]: user restarted postfix successfully
+Apr 27 07:42:27 server2 dhclient[4886]: admin configured dhclient successfully
+Apr 27 07:42:28 server2 kernel[8439]: denied: www-data could not loaded kernel
+Apr 27 07:42:29 server2 NetworkManager[9941]: admin configured NetworkManager successfully
+Apr 27 07:42:30 server2 apache2[4863]: system configured apache2 successfully
+Apr 27 07:42:31 server2 apache2[8215]: admin connected apache2 successfully
+Apr 27 07:42:32 server2 apache2[7443]: root connected apache2 successfully
+Apr 27 07:42:33 server2 mysqld[7276]: admin restarted mysqld successfully
+Apr 27 07:42:34 server2 kernel[8882]: admin modified kernel successfully
+Apr 27 07:42:35 server2 postfix[7063]: www-data configured postfix successfully
+Apr 27 07:42:36 server2 cron[1814]: Exception: www-data could not loaded cron
+Apr 27 07:42:37 server2 systemd[5079]: fatal: admin could not restarted systemd
+Apr 27 07:42:38 server2 apache2[4554]: www-data loaded apache2 successfully
+Apr 27 07:42:39 server2 sshd[1527]: system disconnected sshd successfully
+Apr 27 07:42:40 server2 nginx[9928]: root loaded nginx successfully
+Apr 27 07:42:41 server2 cron[7747]: Exception: admin could not started cron
+Apr 27 07:42:42 server2 nginx[1791]: root modified nginx successfully
+Apr 27 07:42:43 server2 sshd[9275]: user restarted sshd successfully
+Apr 27 07:42:44 server2 sshd[3966]: www-data stopped sshd successfully
+Apr 27 07:42:45 server2 apache2[2713]: www-data restarted apache2 successfully
+Apr 27 07:42:46 server2 systemd[5705]: admin unloaded systemd successfully
+Apr 27 07:42:47 server2 kernel[2971]: ERROR: admin could not connected kernel
+Apr 27 07:42:48 server2 kernel[2832]: www-data started kernel successfully
+Apr 27 07:42:49 server2 apache2[1397]: admin loaded apache2 successfully
+Apr 27 07:42:50 server2 cron[3944]: user disconnected cron successfully
+Apr 27 07:42:51 server2 mysqld[6538]: root processed mysqld successfully
+Apr 27 07:42:52 server2 sshd[7541]: www-data disconnected sshd successfully
+Apr 27 07:42:53 server2 nginx[1285]: user restarted nginx successfully
+Apr 27 07:42:54 server2 nginx[3617]: admin started nginx successfully
+Apr 27 07:42:55 server2 sshd[9383]: user processed sshd successfully
+Apr 27 07:42:56 server2 dhclient[4822]: root configured dhclient successfully
+Apr 27 07:42:57 server2 nginx[1452]: root started nginx successfully
+Apr 27 07:42:58 server2 systemd[4718]: user restarted systemd successfully
+Apr 27 07:42:59 server2 mysqld[1869]: system started mysqld successfully
+Apr 27 07:43:00 server2 kernel[3838]: admin modified kernel successfully
+Apr 27 07:43:01 server2 systemd[2513]: user modified systemd successfully
+Apr 27 07:43:02 server2 mysqld[7547]: user disconnected mysqld successfully
+Apr 27 07:43:03 server2 apache2[9860]: root configured apache2 successfully
+Apr 27 07:43:04 server2 kernel[8081]: admin processed kernel successfully
+Apr 27 07:43:05 server2 postfix[2548]: system stopped postfix successfully
+Apr 27 07:43:06 server2 cron[2698]: user restarted cron successfully
+Apr 27 07:43:07 server2 cron[9531]: www-data configured cron successfully
+Apr 27 07:43:08 server2 nginx[3066]: timeout: admin could not restarted nginx
+Apr 27 07:43:09 server2 apache2[5515]: system connected apache2 successfully
+Apr 27 07:43:10 server2 systemd[1441]: system connected systemd successfully
+Apr 27 07:43:11 server2 mysqld[9928]: system stopped mysqld successfully
+Apr 27 07:43:12 server2 cron[8005]: root started cron successfully
+Apr 27 07:43:13 server2 nginx[7227]: admin started nginx successfully
+Apr 27 07:43:14 server2 kernel[2198]: system started kernel successfully
+Apr 27 07:43:15 server2 mysqld[7358]: user modified mysqld successfully
+Apr 27 07:43:16 server2 dhclient[6334]: root started dhclient successfully
+Apr 27 07:43:17 server2 dhclient[6819]: admin modified dhclient successfully
+Apr 27 07:43:18 server2 postfix[7204]: system restarted postfix successfully
+Apr 27 07:43:19 server2 dhclient[9542]: user disconnected dhclient successfully
+Apr 27 07:43:20 server2 mysqld[9187]: www-data modified mysqld successfully
+Apr 27 07:43:21 server2 cron[7502]: user started cron successfully
+Apr 27 07:43:22 server2 NetworkManager[1545]: user configured NetworkManager successfully
+Apr 27 07:43:23 server2 NetworkManager[3693]: www-data disconnected NetworkManager successfully
+Apr 27 07:43:24 server2 kernel[9475]: root unloaded kernel successfully
+Apr 27 07:43:25 server2 dhclient[3658]: system started dhclient successfully
+Apr 27 07:43:26 server2 mysqld[1423]: root unloaded mysqld successfully
+Apr 27 07:43:27 server2 dhclient[2524]: www-data loaded dhclient successfully
+Apr 27 07:43:28 server2 nginx[3182]: system loaded nginx successfully
+Apr 27 07:43:29 server2 systemd[6545]: root processed systemd successfully
+Apr 27 07:43:30 server2 cron[6834]: admin stopped cron successfully
+Apr 27 07:43:31 server2 sshd[9115]: www-data unloaded sshd successfully
+Apr 27 07:43:32 server2 dhclient[2334]: admin processed dhclient successfully
+Apr 27 07:43:33 server2 nginx[6095]: www-data disconnected nginx successfully
+Apr 27 07:43:34 server2 apache2[5964]: root started apache2 successfully
+Apr 27 07:43:35 server2 mysqld[2962]: timeout: www-data could not loaded mysqld
+Apr 27 07:43:36 server2 mysqld[8779]: root disconnected mysqld successfully
+Apr 27 07:43:37 server2 postfix[3357]: admin configured postfix successfully
+Apr 27 07:43:38 server2 cron[8093]: admin unloaded cron successfully
+Apr 27 07:43:39 server2 mysqld[9316]: www-data stopped mysqld successfully
+Apr 27 07:43:40 server2 NetworkManager[6776]: user started NetworkManager successfully
+Apr 27 07:43:41 server2 systemd[9183]: www-data unloaded systemd successfully
+Apr 27 07:43:42 server2 dhclient[1704]: denied: user could not unloaded dhclient
+Apr 27 07:43:43 server2 dhclient[5897]: system disconnected dhclient successfully
+Apr 27 07:43:44 server2 nginx[7432]: admin disconnected nginx successfully
+Apr 27 07:43:45 server2 dhclient[6396]: admin loaded dhclient successfully
+Apr 27 07:43:46 server2 kernel[6435]: user connected kernel successfully
+Apr 27 07:43:47 server2 postfix[6889]: admin unloaded postfix successfully
+Apr 27 07:43:48 server2 dhclient[2003]: system unloaded dhclient successfully
+Apr 27 07:43:49 server2 kernel[8007]: admin disconnected kernel successfully
+Apr 27 07:43:50 server2 sshd[6538]: system modified sshd successfully
+Apr 27 07:43:51 server2 sshd[2973]: segfault: www-data could not configured sshd
+Apr 27 07:43:52 server2 apache2[8560]: system disconnected apache2 successfully
+Apr 27 07:43:53 server2 kernel[4216]: www-data connected kernel successfully
+Apr 27 07:43:54 server2 sshd[7394]: root connected sshd successfully
+Apr 27 07:43:55 server2 nginx[8539]: user stopped nginx successfully
+Apr 27 07:43:56 server2 postfix[8533]: user loaded postfix successfully
+Apr 27 07:43:57 server2 sshd[6069]: www-data connected sshd successfully
+Apr 27 07:43:58 server2 mysqld[9081]: system disconnected mysqld successfully
+Apr 27 07:43:59 server2 mysqld[1206]: user loaded mysqld successfully
+Apr 27 07:44:00 server2 dhclient[5895]: root modified dhclient successfully
+Apr 27 07:44:01 server2 sshd[8783]: system connected sshd successfully
+Apr 27 07:44:02 server2 nginx[8159]: ERROR: www-data could not restarted nginx
+Apr 27 07:44:03 server2 sshd[5325]: ERROR: root could not modified sshd
+Apr 27 07:44:04 server2 cron[2633]: system disconnected cron successfully
+Apr 27 07:44:05 server2 systemd[9774]: root disconnected systemd successfully
+Apr 27 07:44:06 server2 nginx[1008]: root modified nginx successfully
+Apr 27 07:44:07 server2 systemd[1497]: root configured systemd successfully
+Apr 27 07:44:08 server2 cron[4301]: admin started cron successfully
+Apr 27 07:44:09 server2 apache2[9811]: admin connected apache2 successfully
+Apr 27 07:44:10 server2 NetworkManager[5578]: segfault: user could not configured NetworkManager
+Apr 27 07:44:11 server2 cron[5564]: panic: www-data could not started cron
+Apr 27 07:44:12 server2 dhclient[9799]: www-data disconnected dhclient successfully
+Apr 27 07:44:13 server2 mysqld[8892]: admin configured mysqld successfully
+Apr 27 07:44:14 server2 nginx[8208]: ERROR: www-data could not configured nginx
+Apr 27 07:44:15 server2 dhclient[4192]: segfault: system could not disconnected dhclient
+Apr 27 07:44:16 server2 postfix[7514]: www-data configured postfix successfully

@@ -1,0 +1,19 @@
+Apr 27 09:09:17 server3 NetworkManager[3616]: admin connected NetworkManager successfully
+Apr 27 09:09:18 server3 nginx[5461]: user unloaded nginx successfully
+Apr 27 09:09:19 server3 NetworkManager[2957]: root unloaded NetworkManager successfully
+Apr 27 09:09:20 server3 nginx[2356]: www-data restarted nginx successfully
+Apr 27 09:09:21 server3 apache2[9231]: user started apache2 successfully
+Apr 27 09:09:27 server3 cron[4141]: WARNING: High memory usage detected
+Apr 27 09:09:29 server3 cron[4141]: WARNING: System memory utilization above 85%
+Apr 27 09:09:32 server3 cron[4141]: ERROR: Failed to allocate memory
+Apr 27 09:09:34 server3 cron[4141]: ERROR: out of memory
+Apr 27 09:09:37 server3 kernel[1]: Out of memory: Killed process 4141 (cron)
+Apr 27 09:09:42 server3 systemd[1]: cron.service: Main process exited, code=killed, status=9/KILL
+Apr 27 09:09:44 server3 systemd[1]: cron.service: Unit entered failed state
+Apr 27 09:09:47 server3 systemd[1]: cron.service: Service restart attempt
+Apr 27 09:09:49 server3 cron[4241]: Started successfully with reduced memory allocation
+Apr 27 09:09:52 server3 kernel[6110]: user configured kernel successfully
+Apr 27 09:09:53 server3 NetworkManager[8441]: system disconnected NetworkManager successfully
+Apr 27 09:09:54 server3 postfix[3104]: admin stopped postfix successfully
+Apr 27 09:09:55 server3 NetworkManager[3723]: user configured NetworkManager successfully
+Apr 27 09:09:56 server3 sshd[4681]: admin disconnected sshd successfully
