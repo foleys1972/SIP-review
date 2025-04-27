@@ -1,0 +1,19 @@
+Apr 27 09:52:06 server3 sshd[7741]: user started sshd successfully
+Apr 27 09:52:07 server3 mysqld[1680]: user disconnected mysqld successfully
+Apr 27 09:52:08 server3 sshd[7188]: user configured sshd successfully
+Apr 27 09:52:09 server3 systemd[8820]: www-data restarted systemd successfully
+Apr 27 09:52:10 server3 kernel[5692]: system configured kernel successfully
+Apr 27 09:52:16 server3 kernel[2831]: WARNING: High memory usage detected
+Apr 27 09:52:18 server3 kernel[2831]: WARNING: System memory utilization above 85%
+Apr 27 09:52:21 server3 kernel[2831]: ERROR: Failed to allocate memory
+Apr 27 09:52:23 server3 kernel[2831]: ERROR: out of memory
+Apr 27 09:52:26 server3 kernel[1]: Out of memory: Killed process 2831 (kernel)
+Apr 27 09:52:31 server3 systemd[1]: kernel.service: Main process exited, code=killed, status=9/KILL
+Apr 27 09:52:33 server3 systemd[1]: kernel.service: Unit entered failed state
+Apr 27 09:52:36 server3 systemd[1]: kernel.service: Service restart attempt
+Apr 27 09:52:38 server3 kernel[2931]: Started successfully with reduced memory allocation
+Apr 27 09:52:41 server3 kernel[7119]: system disconnected kernel successfully
+Apr 27 09:52:42 server3 apache2[9942]: www-data modified apache2 successfully
+Apr 27 09:52:43 server3 mysqld[1447]: user loaded mysqld successfully
+Apr 27 09:52:44 server3 dhclient[7277]: user connected dhclient successfully
+Apr 27 09:52:45 server3 cron[7613]: user started cron successfully

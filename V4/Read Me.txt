@@ -1,0 +1,144 @@
+# Syslog & Packet Analyzer: Setup and Running Instructions
+
+This document provides step-by-step instructions for setting up and running the Syslog & Packet Analyzer application.
+
+## Files Overview
+
+The application consists of these main files:
+
+1. `syslog_analyzer.py` - Main application for syslog analysis with packet analysis integration
+2. `packet_analyzer.py` - Module for PCAP analysis, SIP call flows, and RTP audio playback
+3. `error_keywords.txt` - Sample error keywords for syslog analysis
+4. `sample_log_generator.py` - Utility to generate sample syslog files (optional)
+
+## Installation Steps
+
+### 1. Prerequisites
+
+- Python 3.6+ installed on your system
+- Pip package manager
+- Wireshark (for packet capture functionality)
+
+### 2. Create a Project Directory
+
+```bash
+mkdir syslog-analyzer
+cd syslog-analyzer
+```
+
+### 3. Save the Application Files
+
+Save all the application files to your project directory:
+- `syslog_analyzer.py`
+- `packet_analyzer.py`
+- `error_keywords.txt`
+- `sample_log_generator.py` (optional)
+
+### 4. Install Required Packages
+
+```bash
+pip install matplotlib numpy pygame pyshark scapy
+```
+
+For Windows environments that require admin privileges:
+```bash
+pip install --user matplotlib numpy pygame pyshark scapy
+```
+
+### 5. Install Wireshark
+
+#### Windows
+1. Download from [wireshark.org](https://www.wireshark.org/download.html)
+2. Install with default options (make sure TShark is included)
+3. Add Wireshark bin directory to your PATH environment variable
+
+#### macOS
+```bash
+brew install wireshark
+```
+
+#### Linux (Debian/Ubuntu)
+```bash
+sudo apt update
+sudo apt install wireshark tshark
+```
+
+## Running the Application
+
+### Starting the Application
+
+From your project directory, run:
+
+```bash
+python syslog_analyzer.py
+```
+
+This launches the main application window with the syslog analysis interface.
+
+### Opening Syslog Files
+
+1. Click **File → Open Left Log** to load your first syslog file
+2. Click **File → Open Right Log** to load your second syslog file
+3. Load error keywords via **File → Load Error Keywords**
+
+### Using the Packet Analyzer
+
+1. Click **Tools → Packet Analyzer** to open the packet analysis window
+2. Use **File → Open PCAP File** to load a packet capture file
+3. The application will automatically extract SIP calls and RTP streams
+
+### Starting a Live Capture
+
+1. In the Packet Analyzer window, click **File → Start Live Capture**
+2. Select a network interface and set capture options
+3. Click **Start Capture**
+
+## Troubleshooting
+
+### Missing Dependencies
+
+If you see warnings about missing packages:
+1. Note which packages are missing
+2. Install them using pip as described above
+3. Restart the application
+
+### Packet Analyzer Not Opening
+
+If the packet analyzer fails to open:
+1. Ensure all required packages are installed
+2. Check if Wireshark/tshark is properly installed and in your PATH
+3. Try running the application from a terminal/command prompt to see error messages
+
+### Audio Playback Issues
+
+If RTP audio playback doesn't work:
+1. Make sure pygame is properly installed
+2. Verify your system has working audio output
+3. Check if the RTP stream contains a supported codec (G.711 μ-law or A-law)
+
+## Example Workflow
+
+1. Generate sample logs (optional):
+   ```bash
+   python sample_log_generator.py
+   ```
+
+2. Start the application:
+   ```bash
+   python syslog_analyzer.py
+   ```
+
+3. Load the sample logs:
+   - Open `sample_left.log` in the left panel
+   - Open `sample_right.log` in the right panel
+   - Load `error_keywords.txt` for error highlighting
+
+4. Open the packet analyzer and load a PCAP file containing SIP/RTP traffic
+
+5. Explore SIP calls and play back RTP audio streams
+
+## Additional Resources
+
+- For detailed usage instructions, refer to the README file
+- For VoIP metrics and interpretation, see the VoIP Metrics Analysis Guide
+- For installation details, see the Installation Guide
